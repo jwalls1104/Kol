@@ -1,4 +1,4 @@
-
+AutoSkipVote()
 PlaceTower("Scout", 3.062,1.000,-3.112, 750)
 UpgradeTower(3.062, -3.112, 500)
 PlaceTower("Scout", -2.757,1.000,-3.057, 350)
